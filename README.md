@@ -23,13 +23,7 @@
 
 
 
-
-<picture></picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="github-contribution-grid-snake.svg" />
-</picture>
-
+![Snake animation](https://github.com/pepz1n/pepz1n/blob/output/github-contribution-grid-snake.svg)
 
 
 
