@@ -24,7 +24,11 @@
 
 
 
-   ![Snake animation](https://github.com/pepz1n/pepz1n/blob/output/github-contribution-grid-snake.svg)
+<picture></picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="github-contribution-grid-snake.svg" />
+</picture>
 
 
 
@@ -42,11 +46,11 @@
 
 
 
-<!--  <div style="">
+<div style="">
 
    <div align='center'>
 <a height="150em" href="http://www.github.com/pepz1n">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepz1n&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
 
- </div> -->
+ </div>
